@@ -1,0 +1,7 @@
+streamlit
+rasterio
+richdem
+numpy
+pandas
+matplotlib
+scipy
