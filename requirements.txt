@@ -1,7 +1,0 @@
-streamlit
-rasterio
-
-numpy
-pandas
-matplotlib
-scipy
